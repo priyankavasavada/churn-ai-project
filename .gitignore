@@ -12,6 +12,8 @@ __pycache__/
 *.csv
 *.xlsx
 data/
+.ipynb_checkpoints
+*.ipynb_checkpoints
 
 # Environment variables (for security)
 .env
